@@ -7,4 +7,3 @@ Related links:
 * Composer (https://getcomposer.org/)
 * PSR-4 Autoloader (http://www.php-fig.org/psr/psr-4/)
 * PHP-FIG (http://www.php-fig.org/)
-* 
